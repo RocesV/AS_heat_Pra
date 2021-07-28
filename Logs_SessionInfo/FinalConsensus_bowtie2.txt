@@ -1,0 +1,8 @@
+###### FinalConsensus 2020 vml  #######
+
+13890 reads; of these:
+  13890 (100.00%) were unpaired; of these:
+    4100 (29.52%) aligned 0 times
+    4823 (34.72%) aligned exactly 1 time
+    4967 (35.76%) aligned >1 times
+70.48% overall alignment rate

@@ -1,0 +1,18 @@
+R version 3.6.0 (2019-04-26)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 17763)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Spanish_Spain.1252  LC_CTYPE=Spanish_Spain.1252    LC_MONETARY=Spanish_Spain.1252 LC_NUMERIC=C                   LC_TIME=Spanish_Spain.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] stringr_1.4.0 seqinr_3.6-1  readxl_1.3.1  seqRFLP_1.0.1
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.2       fansi_0.4.0      utf8_1.1.4       crayon_1.3.4     assertthat_0.2.1 MASS_7.3-51.4    cellranger_1.1.0 magrittr_1.5     pillar_1.3.1    
+[10] stringi_1.4.3    rlang_0.4.0      cli_1.1.0        rstudioapi_0.10  tools_3.6.0      ade4_1.7-13      compiler_3.6.0   pkgconfig_2.0.2  tibble_2.1.1    

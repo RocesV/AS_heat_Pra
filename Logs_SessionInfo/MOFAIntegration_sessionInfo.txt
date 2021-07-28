@@ -1,0 +1,38 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 18363)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Spanish_Spain.1252  LC_CTYPE=Spanish_Spain.1252    LC_MONETARY=Spanish_Spain.1252 LC_NUMERIC=C                  
+[5] LC_TIME=Spanish_Spain.1252    
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] gridExtra_2.3        plyr_1.8.6           caret_6.0-86         ggplot2_3.3.2        lattice_0.20-41      cowplot_1.1.0       
+ [7] PCGSE_0.4            MASS_7.3-53          RMTstat_0.3          safe_3.30.0          SparseM_1.78         AnnotationDbi_1.52.0
+[13] IRanges_2.24.0       S4Vectors_0.28.0     Biobase_2.50.0       BiocGenerics_0.36.0  reticulate_1.18      MOFA2_1.0.1         
+
+loaded via a namespace (and not attached):
+  [1] Rtsne_0.15           colorspace_2.0-0     ggsignif_0.6.0       rio_0.5.16           ellipsis_0.3.1       class_7.3-17        
+  [7] rstudioapi_0.13      ggpubr_0.4.0         farver_2.0.3         ggrepel_0.8.2        bit64_4.0.5          prodlim_2019.11.13  
+ [13] lubridate_1.7.9.2    codetools_0.2-16     splines_4.0.3        mnormt_2.0.2         knitr_1.30           jsonlite_1.7.1      
+ [19] pROC_1.17.0.1        broom_0.7.3          pheatmap_1.0.12      uwot_0.1.10          HDF5Array_1.18.0     compiler_4.0.3      
+ [25] basilisk_1.2.1       backports_1.2.0      Matrix_1.2-18        htmltools_0.5.0      prettyunits_1.1.1    tools_4.0.3         
+ [31] gtable_0.3.0         glue_1.4.2           reshape2_1.4.4       dplyr_1.0.2          rappdirs_0.3.1       tinytex_0.27        
+ [37] Rcpp_1.0.5           carData_3.0-4        cellranger_1.1.0     vctrs_0.3.5          rhdf5filters_1.2.0   nlme_3.1-149        
+ [43] iterators_1.0.13     psych_2.0.12         timeDate_3043.102    gower_0.2.2          xfun_0.19            stringr_1.4.0       
+ [49] openxlsx_4.2.3       lifecycle_0.2.0      rstatix_0.6.0        scales_1.1.1         basilisk.utils_1.2.1 ipred_0.9-9         
+ [55] hms_0.5.3            MatrixGenerics_1.2.0 rhdf5_2.34.0         RColorBrewer_1.1-2   curl_4.3             yaml_2.2.1          
+ [61] memoise_1.1.0        rpart_4.1-15         reshape_0.8.8        stringi_1.5.3        RSQLite_2.2.1        corrplot_0.84       
+ [67] foreach_1.5.1        filelock_1.0.2       zip_2.1.1            lava_1.6.8.1         rlang_0.4.8          pkgconfig_2.0.3     
+ [73] matrixStats_0.57.0   evaluate_0.14        purrr_0.3.4          Rhdf5lib_1.12.0      recipes_0.1.15       labeling_0.4.2      
+ [79] bit_4.0.4            tidyselect_1.1.0     GGally_2.1.0         magrittr_2.0.1       R6_2.5.0             generics_0.1.0      
+ [85] DelayedArray_0.16.0  DBI_1.1.0            mgcv_1.8-33          haven_2.3.1          foreign_0.8-80       pillar_1.4.7        
+ [91] withr_2.3.0          abind_1.4-5          survival_3.2-7       nnet_7.3-14          tibble_3.0.4         crayon_1.3.4        
+ [97] car_3.0-10           tmvnsim_1.0-2        rmarkdown_2.5        progress_1.2.2       readxl_1.3.1         grid_4.0.3          
+[103] data.table_1.13.2    blob_1.2.1           forcats_0.5.0        ModelMetrics_1.2.2.2 digest_0.6.27        tidyr_1.1.2         
+[109] munsell_0.5.0       

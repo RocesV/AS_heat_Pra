@@ -1,0 +1,11 @@
+
+###### Transabyss #######
+13890 reads; of these:
+  13890 (100.00%) were unpaired; of these:
+    694 (5.00%) aligned 0 times
+    5055 (36.39%) aligned exactly 1 time
+    8141 (58.61%) aligned >1 times
+95.00% overall alignment rate
+Time searching: 00:00:04
+Overall time: 00:00:04
+

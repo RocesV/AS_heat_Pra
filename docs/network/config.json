@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Roces V"
+  },
+  "text": {
+    "more": "Question: How do double differential isoforms interact with each other and which functional bins are related to these topological clusters?\n\nBuild: Seidr Meta-network (irp consensus from 12 algorithms). \nPost-process: Seidr backbonning with F\u003d1 and Infomap clustering.\nNode size: Katz centrality.\nColors: Infomap clusters.\n\nDouble differential isoforms within same cluster will tend to co-expression and may be co-function.\n ",
+    "intro": "Double differential isoforms interaction Meta-Network",
+    "title": "DDI-Metanetwork"
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "Infomap",
+    "nodeLabel": "NodeID"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "infomap",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 3,
+      "minEdgeSize": 1,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

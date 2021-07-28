@@ -1,0 +1,12 @@
+
+###### Trinity ########
+Multiseed full-index search: 00:00:03
+13890 reads; of these:
+  13890 (100.00%) were unpaired; of these:
+    1277 (9.19%) aligned 0 times
+    4955 (35.67%) aligned exactly 1 time
+    7658 (55.13%) aligned >1 times
+90.81% overall alignment rate
+Time searching: 00:00:04
+Overall time: 00:00:04
+
